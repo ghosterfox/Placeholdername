@@ -22,7 +22,7 @@
             "r": 61,
             "g": 14,
             "b": 97,
-            "a": 255
+            "a": 75
         },
         "clouds": {
             "cloudsPrefab": "giantsDeep",
@@ -38,14 +38,6 @@
             }
         },
         "hasRain": true,
-       // "fogSize": 5,
-       // "fogDensity": 0.1
-       // "fogTint": {
-          //  "r": 79,
-          //  "g": 50,
-          //  "b": 120,
-          //  "a": 75
-     //   }
     },
     // **ADD TEXTURE TO RINGS RETARD
     // "Rings": [ 
