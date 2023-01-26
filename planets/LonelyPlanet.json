@@ -38,7 +38,7 @@
             }
         },
         "hasRain": true,
-        "fogSize": 90,
+        "fogSize": 5,
         "fogDensity": 0.1,
         "fogTint": {
             "r": 79,
