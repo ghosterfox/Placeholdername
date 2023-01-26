@@ -3,7 +3,7 @@
   "author": "ghoster",
   "name": "PLACEHOLDER",
   "uniqueName": "ghoster.2134",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]
 }

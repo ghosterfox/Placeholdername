@@ -42,13 +42,14 @@
             "a": 255
         }
     },
-    "Rings": [
-        {
-            "fluidType": "sand",
-            "inclination": 2,
-            "innerRadius": 3,
-            "outerRadius": 4
-        }
-    ]
+    //ADD TEXTURE TO RINGS RETARD
+    // "Rings": [ 
+       // {
+         //   "fluidType": "sand",
+           // "inclination": 2,
+           // "innerRadius": 3,
+           // "outerRadius": 4
+     //   }
+   // ]
 
 }
