@@ -38,8 +38,8 @@
             }
         },
         "hasRain": true,
-        "fogSize": 5,
-        "fogDensity": 0.1
+       // "fogSize": 5,
+       // "fogDensity": 0.1
        // "fogTint": {
           //  "r": 79,
           //  "g": 50,
