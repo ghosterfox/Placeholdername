@@ -28,6 +28,7 @@
             "cloudsPrefab": "giantsDeep",
             "fluidType": "cloud",
             "texturePath": "planets/cloud_1.png",
+            "outerCloudRadius": 415,
             "rotationSpeed": 0.5,
             "tint": {
                 "r": 87,
