@@ -24,7 +24,7 @@
         "clouds": {
             "cloudsPrefab": "giantsDeep",
             "fluidType": "cloud",
-            "texturePath": "planets/assets/cloud_1.png",
+            "texturePath": "planets/cloud_1.png",
             "rotationSpeed": 4,
             "innerCloudRadius": 2,
             "outerCloudRadius": 4,
@@ -45,7 +45,7 @@
             "a": 255
         }
     },
-    //ADD TEXTURE TO RINGS RETARD
+    // **ADD TEXTURE TO RINGS RETARD
     // "Rings": [ 
        // {
          //   "fluidType": "sand",
