@@ -26,8 +26,8 @@
             "fluidType": "cloud",
             "texturePath": "planets/cloud_1.png",
             "rotationSpeed": 4,
-            "innerCloudRadius": 2,
-            "outerCloudRadius": 4,
+            "innerCloudRadius": 400,
+            "outerCloudRadius": 415,
             "tint": {
                 "r": 87,
                 "g": 36,
