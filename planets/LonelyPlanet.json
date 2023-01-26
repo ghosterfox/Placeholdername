@@ -3,9 +3,9 @@
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
     "starSystem": "SolarSystem",
     "Base": {
-    "groundSize": 350,
-    "surfaceSize": 351,
-    "surfaceGravity": 12,
+    "groundSize": 325,
+    "surfaceSize": 326,
+    "surfaceGravity": 15,
     "gravityFallOff": "linear",
 
     "hasMapMarker": true
@@ -13,7 +13,7 @@
     "Orbit": {
         "primaryBody": "SUN",
         "semiMajorAxis": 25000,
-        "trackingOrbitLine": true,
+        "trackingOrbitLine": false,
         "axialTilt": 12
     },
     "Atmosphere": {
@@ -29,6 +29,7 @@
             "fluidType": "cloud",
             "texturePath": "planets/cloud_1.png",
             "outerCloudRadius": 415,
+            "innerCloudRadius": 375,
             "rotationSpeed": 0.5,
             "tint": {
                 "r": 87,
@@ -38,7 +39,7 @@
             }
         },
         "hasRain": true,
-    },
+    }
     // **ADD TEXTURE TO RINGS RETARD
     // "Rings": [ 
        // {
