@@ -41,7 +41,7 @@
         <Dialogue>
             <Page>Good luck!</Page>
         <RevealFacts>
-            <FactID>LONELY_PLANET</FactID>
+            <FactID>LONELY_PLANET_TEXT</FactID>
         </RevealFacts>
         </Dialogue>
     </DialogueNode>
