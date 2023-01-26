@@ -12,7 +12,7 @@
     },
     "Orbit": {
         "primaryBody": "SUN",
-        "semiMajorAxis": 25000,
+        "semiMajorAxis": 30000,
         "trackingOrbitLine": false,
         "axialTilt": 12
     },
