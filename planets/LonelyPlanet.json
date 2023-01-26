@@ -9,7 +9,7 @@
     },
     "Orbit": {
         "primaryBody": "SUN",
-        "semiMajorAxis": 18000,
+        "semiMajorAxis": 25000,
         "trackingOrbitLine": true,
         "axialTilt": 12
     },
@@ -24,13 +24,16 @@
         "clouds": {
             "cloudsPrefab": "giantsDeep",
             "fluidType": "cloud",
+            "texturePath": "planets/assets/cloud_1.png",
+            "rotationSpeed": 4,
+            "innerCloudRadius": 2,
+            "outerCloudRadius": 4,
             "tint": {
                 "r": 87,
                 "g": 36,
                 "b": 125,
                 "a": 255
-            },
-            "texturePath": "planets/assets/cloud_1.png"
+            }
         },
         "hasRain": true,
         "fogSize": 400,
