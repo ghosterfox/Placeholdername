@@ -30,7 +30,8 @@
     <DialogueOptionsList>
         <DialogueOption>
         <Text>Okay, I'll take a look at it.</Text>    
-        <DialogueTarget>Stop</DialogueOptionsList>
+        <DialogueTarget>Stop</DialogueTarget>
+        </DialogueOptionsList>
     </DialogueNode>
 
     <DialogueNode>
