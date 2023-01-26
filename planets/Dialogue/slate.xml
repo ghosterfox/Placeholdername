@@ -41,4 +41,5 @@
         <Dialogue>
             <Page>Good luck!</Page>
         </Dialogue>
+    </DialogueNode>
 </DialougeTree>
