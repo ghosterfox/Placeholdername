@@ -4,6 +4,7 @@
     "starSystem": "SolarSystem",
     "Base": {
     "groundSize": 350,
+    "surfaceSize": 351,
     "surfaceGravity": 12,
     "gravityFallOff": "linear",
 
@@ -27,8 +28,7 @@
             "cloudsPrefab": "giantsDeep",
             "fluidType": "cloud",
             "texturePath": "planets/cloud_1.png",
-            "rotationSpeed": 4,
-            "innerCloudRadius": 395,
+            "rotationSpeed": 0.5,
             "outerCloudRadius": 415,
             "tint": {
                 "r": 87,
