@@ -1,0 +1,40 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+  <NameField>Slate</NameField>
+
+    <DialogueNode>
+        <Name>Start</Name>
+        <EntryCondition>DEFAULT</EntryCondition>
+        <Dialogue>
+            <Page>Before you go, Hornfels told me to tell you about the <![CDATA[<Color=orange>]]>Lonely Planet<![CDATA[</Color>]]>, no ones been there yet so take a look at it for me will you?</Page>
+
+            <DialogueOptionsList>
+                <DialogueOption>
+                    <Text>Never heard of it..</Text>
+                    <DialogueTarget>Explain</DialogueTarget>
+                </DialogueOption>
+
+                <DialogueOption>
+                    <Text>Sure.</Text>
+                    <DialogueTarget>Stop</DialogueTarget>
+            </DialogueOptionsList>
+
+    </DialogueNode>
+
+    <DialogueNode>
+        <Name>Explain</Name>
+        <Dialogue>
+            <Page>It's that big purple planet that's farther away than all of the other ones, hence the name <![CDATA[<Color=orange>]]>Lonely Planet<![CDATA[</Color>]]>.</Page>
+        </Dialogue>
+
+    <DialogueOptionsList>
+        <DialogueOption>
+        <Text>Okay, I'll take a look at it.</Text>    
+        <DialogueTarget>Stop</DialogueOptionsList>
+    </DialogueNode>
+
+    <DialogueNode>
+        <Name>Stop</Name>
+        <Dialogue>
+            <Page>Good luck!</Page>
+        </Dialogue>
+</DialougeTree>
