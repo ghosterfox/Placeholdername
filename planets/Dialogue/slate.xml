@@ -40,9 +40,9 @@
         <Name>Stop</Name>
         <Dialogue>
             <Page>Good luck!</Page>
+        </Dialogue>
         <RevealFacts>
             <FactID>LONELY_PLANET_TEXT</FactID>
         </RevealFacts>
-        </Dialogue>
     </DialogueNode>
 </DialogueTree>

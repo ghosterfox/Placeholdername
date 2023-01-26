@@ -8,7 +8,6 @@
     "surfaceGravity": 15,
     "gravityFallOff": "linear",
     "hasMapMarker": true
-    
 
     },
     "Orbit": {
@@ -50,6 +49,9 @@
             "a": 255
         }
     },
+    "ShipLog": {
+        "xmlFile": "LonelyPlanet.xml"
+    }
     // **ADD TEXTURE TO RINGS RETARD
     // "Rings": [ 
        // {
