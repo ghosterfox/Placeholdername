@@ -16,6 +16,7 @@
                 <DialogueOption>
                     <Text>Sure.</Text>
                     <DialogueTarget>Stop</DialogueTarget>
+                </DialogueOption>
             </DialogueOptionsList>
 
     </DialogueNode>
