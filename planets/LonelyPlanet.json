@@ -4,7 +4,7 @@
     "starSystem": "SolarSystem",
     "Base": {
     "groundSize": 350,
-    "surfaceGravity": 14,
+    "surfaceGravity": 12,
     "gravityFallOff": "linear",
 
     "hasMapMarker": true
@@ -28,7 +28,7 @@
             "fluidType": "cloud",
             "texturePath": "planets/cloud_1.png",
             "rotationSpeed": 4,
-            "innerCloudRadius": 350,
+            "innerCloudRadius": 395,
             "outerCloudRadius": 415,
             "tint": {
                 "r": 87,
@@ -39,7 +39,7 @@
         },
         "hasRain": true,
         "fogSize": 400,
-        "fogDensity": 0.6,
+        "fogDensity": 0.3,
         "fogTint": {
             "r": 79,
             "g": 50,
