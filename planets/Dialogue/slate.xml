@@ -6,7 +6,7 @@
         <EntryCondition>DEFAULT</EntryCondition>
         <Dialogue>
             <Page>Before you go, Hornfels told me to tell you about the <![CDATA[<Color=orange>]]>Lonely Planet<![CDATA[</Color>]]>, no ones been there yet so take a look at it for me will you?</Page>
-
+        </Dialogue>
             <DialogueOptionsList>
                 <DialogueOption>
                     <Text>Never heard of it..</Text>
