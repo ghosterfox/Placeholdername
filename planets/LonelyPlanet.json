@@ -1,0 +1,54 @@
+{
+    "name": "Lonely Planet",
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "starSystem": "SolarSystem",
+    "Base": {
+    "groundSize": 350,
+    "surfaceGravity": 14,
+    "hasMapMarker": true
+    },
+    "Orbit": {
+        "primaryBody": "SUN",
+        "semiMajorAxis": 12000,
+        "trackingOrbitLine": true,
+        "axialTilt": 12
+    },
+    "Atmosphere": {
+        "size": 400,
+        "atmosphereTint": {
+            "r": 61,
+            "g": 14,
+            "b": 97,
+            "a": 255
+        },
+        "clouds": {
+            "cloudsPrefab": "giantsDeep",
+            "fluidType": "cloud",
+            "tint": {
+                "r": 87,
+                "g": 36,
+                "b": 125,
+                "a": 255
+            },
+            "texturePath": "planets/Assets/LonelyPlanetClouds.png"
+        },
+        "hasRain": true,
+        "fogSize": 400,
+        "fogDensity": 0.2,
+        "fogTint": {
+            "r": 79,
+            "g": 50,
+            "b": 120,
+            "a": 255
+        }
+    },
+    "Rings": [
+        {
+            "fluidType": "sand",
+            "inclination": 2,
+            "innerRadius": 3,
+            "outerRadius": 4
+        }
+    ]
+
+}
