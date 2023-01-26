@@ -18,6 +18,19 @@
                     "z": 187.0414
                 }
             }
+        ],
+        "entryLocation": [
+            {
+                "position": {
+                    "x": 201.0441,
+                    "y": 319.5789
+                },
+                "id": "LONELY_PLANET"
+            }
         ]
-    }
+    },
+
+    "ShipLog": {
+        "xmlFile": "planets/ShipLogs/LonelyPlanet.xml"
+       }
 }
