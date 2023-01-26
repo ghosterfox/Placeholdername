@@ -29,7 +29,6 @@
             "fluidType": "cloud",
             "texturePath": "planets/cloud_1.png",
             "rotationSpeed": 0.5,
-            "outerCloudRadius": 415,
             "tint": {
                 "r": 87,
                 "g": 36,
@@ -38,7 +37,7 @@
             }
         },
         "hasRain": true,
-        "fogSize": 400,
+        "fogSize": 90,
         "fogDensity": 0.1,
         "fogTint": {
             "r": 79,
