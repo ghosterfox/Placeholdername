@@ -31,7 +31,9 @@
         <DialogueOption>
         <Text>Okay, I'll take a look at it.</Text>    
         <DialogueTarget>Stop</DialogueTarget>
-        </DialogueOptionsList>
+        </DialogueOption>
+    </DialogueOptionsList>
+    
     </DialogueNode>
 
     <DialogueNode>
