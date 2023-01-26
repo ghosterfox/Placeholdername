@@ -39,6 +39,15 @@
             }
         },
         "hasRain": true,
+    },
+    "Sand": {
+        "size": 355,
+        "tint": {
+            "r": 56,
+            "g": 25,
+            "b": 99,
+            "a": 255
+        }
     }
     // **ADD TEXTURE TO RINGS RETARD
     // "Rings": [ 
