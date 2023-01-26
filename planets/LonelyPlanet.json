@@ -9,7 +9,7 @@
     },
     "Orbit": {
         "primaryBody": "SUN",
-        "semiMajorAxis": 12000,
+        "semiMajorAxis": 18000,
         "trackingOrbitLine": true,
         "axialTilt": 12
     },
@@ -30,7 +30,7 @@
                 "b": 125,
                 "a": 255
             },
-            "texturePath": "planets/Assets/LonelyPlanetClouds.png"
+            "texturePath": "planets/assets/cloud_1.png"
         },
         "hasRain": true,
         "fogSize": 400,
