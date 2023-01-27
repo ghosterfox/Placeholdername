@@ -51,7 +51,16 @@
     },
     "ShipLog": {
         "xmlFile": "LonelyPlanet.xml"
-    }
+    },
+    "entryPositions": [
+        {
+            "id": "LONELY_PLANET",
+            "position": {
+                "x": 1200,
+                "y": -2250.0
+            }
+        }
+    ]
     // **ADD TEXTURE TO RINGS RETARD
     // "Rings": [ 
        // {
