@@ -18,7 +18,13 @@
       ],
       "curiosities": [
         {
-            "id": "EXAMPLE_ENTRY"
+            "id": "EXAMPLE_ENTRY",
+            "highlightColor": {
+                "r": 255,
+                "b": 255,
+                "g": 255,
+                "a": 255
+            }
         }
       ]
 }
