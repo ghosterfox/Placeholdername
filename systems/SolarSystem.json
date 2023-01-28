@@ -2,16 +2,18 @@
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
     "entryPositions": [
         {
-            "id": "LONELY_PLANET",
-            "position": {
-                "x": 1200,
-                "y": -2250.0
-            }
-        }
-    ],
-    "curiosities": [
+          "id": "EXAMPLE_ENTRY",
+          "position": {
+            "x": 100,
+            "y": 200
+          }
+        },
         {
-            "id": "LONELY_PLANET"
+          "id": "EXAMPLE_ENTRY_2",
+          "position": {
+            "x": 200,
+            "y": 100
+          }
         }
-    ]
+      ]
 }

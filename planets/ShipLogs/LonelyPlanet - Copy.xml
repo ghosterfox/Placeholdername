@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+  <ID>Lonely Planet</ID>
+
+    <Entry>
+      <ID>LONELY_PLANET</ID>
+      <Name>Lonely Planet</Name>
+      <Curiosity>LONELY_PLANET</Curiosity>
+      <IsCuriosity/>
+
+    <RumorFact>
+      <ID>LONELY_PLANET_TEXT</ID>
+      <RumorName>Slate Rumor</RumorName>
+      <Text>Slate told me that nobody has ever explored the planet yet.</Text>
+    </RumorFact>
+    </Entry>
+
+</AstroObjectEntry>
