@@ -15,5 +15,10 @@
             "y": 100
           }
         }
+      ],
+      "curiosities": [
+        {
+            "id": "EXAMPLE_ENTRY"
+        }
       ]
 }
