@@ -50,6 +50,6 @@
         }
     },
     "ShipLog": {
-        "xmlFile": "LonelyPlanet.xml"
+        "xmlFile": "planets/ShipLogs/LonelyPlanet.xml"
     }
 }
